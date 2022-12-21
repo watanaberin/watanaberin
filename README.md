@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**watanaberin/watanaberin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🐧 I'm rin
+- backend developer
+- Java & Python
 
-Here are some ideas to get you started:
+#### 🐢 技术栈 | Tech Stack
+- 💻  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛢  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=MongoDb)
+![Influxdb](https://img.shields.io/badge/-InfluxDb-333333?style=flat&logo=InfluxDb)
+
+- 🔧  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- ⚡️  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=ApacheKafka)
