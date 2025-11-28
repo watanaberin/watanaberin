@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🐧 I'm rin
-- backend developer
-- Java & Python
+- Skills: Backend, Frontend
+- Languages: Python, Java, C++, Rust, Bash
 
 #### 🐢 技术栈 | Tech Stack
 - 💻  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
