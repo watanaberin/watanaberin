@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![BIO](bio.gif)
+![BIO](rin.gif)
